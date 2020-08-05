@@ -1,0 +1,5 @@
+Requires:
+requests 
+bs4 
+os 
+sys
