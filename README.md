@@ -1,6 +1,6 @@
 # Images Extractor
 
-This app will download all the static images from a given website to your home folder. 
+This app will download all the static images from a given website to the myimages folder. 
 
 To Get Started:
 
